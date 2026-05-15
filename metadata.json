@@ -1,0 +1,6 @@
+{
+  "name": "PDF Studio Pro",
+  "description": "A professional, browser-based full-stack PDF editor. Merge, split, rotate, and manage PDF pages with zero backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
